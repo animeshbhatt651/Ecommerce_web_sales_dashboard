@@ -1,2 +1,9 @@
 # Ecommerce_web_sales_dashboard
 Data analysis of E-commerce website sales report dashboard by using power BI and CSV file data 
+To create a Power BI E-commerce website sales dashboard using CSV files, we will need to follow several steps. Here's a brief description of the process i followed:
+Data Preparation: Start by formating all the necessary data in CSV files that contain your order details, product details, customer details, and so on. Make sure these files are clean, well-structured, and contain all the relevant data you need for your dashboard.
+Import Data into Power BI: Open Power BI and click on "Get Data" in the Home tab. Select "Text/CSV" from the dropdown menu and navigate to where your CSV files are stored. Repeat this step for all CSV files you want to include in your dashboard.
+Data Modeling: Once you've imported all your CSV files, the next step is to create relationships between different data tables. This can be done in Power BI's relationship view. For instance, you can link 'Orders' table with 'Customer Details' table via common column (like 'customer_id').
+Create Calculated Fields: Depending on your requirements, you might need to create calculated fields such as Total Sales, Average Order Value, etc. You can do this using DAX (Data Analysis Expressions) in Power BI.
+Visualization: Now comes the fun part - creating visualizations! Use Power BI's drag-and-drop interface to create charts, graphs, maps, and other visuals. For an e-commerce dashboard, you might want to include visuals showing total sales over time, top-selling products, customer demographics, etc.
+Dashboard Design: Once you've created all your visuals, arrange them on the dashboard in a way that's intuitive and easy to understand. You can also add filters, slicers, and drill-through actions for more interactivity.
