@@ -20,3 +20,5 @@ Dashboard Design
 
 Once all the visuals are created, they are arranged on the dashboard in an intuitive and easy-to-understand manner. Filters, slicers, and drill-through actions are added for more interactivity.
 The final product is a comprehensive and interactive E-commerce website sales report dashboard that provides valuable insights into the business's performance.
+
+![Alternative Text](https://github.com/animeshbhatt651/Ecommerce_web_sales_dashboard/blob/9dd84b07a6fdf8a2ac4ca7de4ec3565aa4e16d9e/Screenshot%202023-09-10%20at%2022.46.15.png)
